@@ -1,11 +1,3 @@
-# FyleAssignment
-
-Frontend assignment from Fyle
-
-## Hosted
-
-I am using github pages for hosting: [https://newhell69.github.io/FyleAssignment/](https://newhell69.github.io/FyleAssignment/)
-
 ## How to run
 
 This a static website. Please use vscode server or such to serve website locally to view.
